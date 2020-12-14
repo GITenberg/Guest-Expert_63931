@@ -1,0 +1,35 @@
+_repo: Guest-Expert_63931
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+creator:
+  author:
+    agent_name: Lang, Allen Kim
+    alias: Lang, Allen K.
+    birthdate: 1928
+    gutenberg_agent_id: '26584'
+    url: http://www.gutenberg.org/2009/agents/26584
+description: ''
+gutenberg_issued: '2020-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Earth (Planet) -- Fiction'
+- !lcsh 'Overpopulation -- Fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Guest Expert
+url: http://www.gutenberg.org/ebooks/63931
